@@ -1,7 +1,0 @@
-README.txt
-setup.py
-FLER-api/__init__.py
-FLER.egg-info/PKG-INFO
-FLER.egg-info/SOURCES.txt
-FLER.egg-info/dependency_links.txt
-FLER.egg-info/top_level.txt
