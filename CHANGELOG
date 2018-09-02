@@ -1,4 +1,8 @@
+* 0.0.4
+    + gazetteers in english added
+* 0.0.3
+    + fler is no more a module, now just used for the ext_files directories, and or the sh files
 * 0.0.2
     + Added the utils and api repository for both the utility package and the api package
 * 0.0.1
-    + First version of FLER, nothing works for now
+    + First version of fler, nothing works for now
